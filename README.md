@@ -1,5 +1,8 @@
 Desarrollador Full-Stack con experiencia en JavaScript, HTML, CSS y Python. Centrado en el aprendizaje continuo, la resolución de problemas y el trabajo en equipo.
 
+- 🔭 Actualmente estoy trabajando en el desarrollo de nuevas webs impresionantes!
+- 🌱 Estoy constantemente aprendiendo
+
 JavaScript | CSS | HTML | Bootstrap | React | Python | APIs| MySQL
 
 <!--
