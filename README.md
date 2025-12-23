@@ -1,5 +1,7 @@
 Desarrollador Full-Stack con experiencia en JavaScript, HTML, CSS y Python. Centrado en el aprendizaje continuo, la resolución de problemas y el trabajo en equipo.
 
+JavaScript | CSS | HTML | Bootstrap | React | Python | APIs| MySQL
+
 <!--
 **mariogr12/mariogr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
